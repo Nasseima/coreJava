@@ -71,8 +71,8 @@ public class Main {
     System.out.println("The result is, " + q);
 
 // Cast y to a double and assign it to q. Then print q again.
-
-    System.out.println("The result when doubled is " + );
+    // I have issues with this section!!
+//    System.out.println("The result when doubled is " + );
 
 
 // Declare a named constant and uses it in a calculation.
